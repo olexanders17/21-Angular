@@ -1,0 +1,17 @@
+{
+  "name": "21-Angular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "olexanders17 <olexanders17@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/olexanders17/21-Angular",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

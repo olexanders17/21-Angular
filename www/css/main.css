@@ -1,0 +1,38 @@
+html {
+
+}
+
+
+.product-small {
+
+    margin: 10px;
+    border-radius: 10px;
+    border: solid 1px rgba(138, 146, 155, 0.79);
+}
+
+.product-small:hover {
+    margin: 10px;
+    border: solid 1px rgba(0, 0, 0, 0.79);
+    box-shadow: 10px 10px 5px 0px rgba(196, 196, 203, 0.79);;
+
+}
+
+.product-small img {
+
+    max-width: 150px;
+}
+
+.product-small-caption {
+
+    font-weight: bold;
+}
+
+
+.product-one-img {
+    width: 250px;
+}
+
+.buy-one {
+ margin-top: 20px;
+ margin-left: 20px;
+}

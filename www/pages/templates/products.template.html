@@ -1,0 +1,5 @@
+<div ng-repeat="p in products" class="col-xs-2 col-sm-3 col-md-3 col-lg-3 product-small well">
+    <div class="product-small-caption "><a href="#/product-page/{{p.id}}">{{p.name}}</a></div>
+    <a href="#/product-page/{{p.id}}"><img src="{{p.link}}" alt="" class="img-thumbnail"></a>
+    <div>{{p.description}}</div>
+</div>

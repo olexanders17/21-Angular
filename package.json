@@ -1,0 +1,23 @@
+{
+  "name": "21-Angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olexanders17/21-Angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olexanders17/21-Angular/issues"
+  },
+  "homepage": "https://github.com/olexanders17/21-Angular#readme",
+  "devDependencies": {
+
+  }
+}

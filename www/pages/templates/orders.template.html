@@ -1,0 +1,15 @@
+<div ng-controller="ordersCtrl">
+
+
+    <ul class="list-group">
+        <li class="list-group-item" ng-repeat="o in orders">
+            <span>{{o.name}}</span>
+            <button class="btn btn-danger " ng-click="remove(o.id)">remove</button>
+        </li>
+
+    </ul>
+
+
+</div>
+
+
